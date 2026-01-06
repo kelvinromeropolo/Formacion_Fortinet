@@ -24,10 +24,9 @@ Hace parte de mi ruta de formación en **Ciberseguridad**, como estudiante de **
 
 Las certificaciones obtenidas pueden ser verificadas públicamente en Credly:
 
- https://www.credly.com/badges/ffdf0682-0a1f-4da2-884c-c9be9dede374/public_url
- https://www.credly.com/badges/7367414e-53ad-49c7-a06f-c56e5b153fc0/public_url
-
- https://www.credly.com/badges/87895b84-b6d5-412c-af96-eb1e56f37301/public_url
+ - https://www.credly.com/badges/ffdf0682-0a1f-4da2-884c-c9be9dede374/public_url
+ - https://www.credly.com/badges/7367414e-53ad-49c7-a06f-c56e5b153fc0/public_url
+ - https://www.credly.com/badges/87895b84-b6d5-412c-af96-eb1e56f37301/public_url
 ---
 
 ## Objetivo del repositorio
