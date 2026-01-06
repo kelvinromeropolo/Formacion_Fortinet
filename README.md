@@ -11,8 +11,8 @@ Hace parte de mi ruta de aprendizaje en **Ciberseguridad** dentro de mi formaci√
 ## Contenido
 
 - **Curso 1:** Fortinet Certified Fundamentals in Cybersecurity  
-  - Estado:  
-  - Certificado y sello:   
+  - Estado: Finalizado
+  - Certificado y sello: Obtenido   
 
 - **Curso 2:** FCF - Getting Started in Cybersecurity 3.0  
   - Estado: Finalizado  
